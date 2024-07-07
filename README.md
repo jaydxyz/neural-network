@@ -1,6 +1,6 @@
 # Lua-Powered Neural Network from Scratch
 
-This project is a basic implementation of a neural network in Lua without using any external libraries. The script demonstrates a deep understanding of neural networks and Lua's capability to handle complex algorithms. The neural network includes functionalities for creating a network architecture, training it with a simple dataset (like XOR or a basic classification problem), and predicting outcomes.
+This project is a basic implementation of a neural network in Lua without using any external libraries. The script demonstrates Lua's capability to handle complex algorithms. The neural network includes functionalities for creating a network architecture, training it with a simple dataset (like XOR or a basic classification problem), and predicting outcomes.
 
 ## Key Features
 
